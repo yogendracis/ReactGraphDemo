@@ -18,8 +18,10 @@ const ProvinceGraph = () =>
       "Northern Cape",
       "Western Cape"
     ],
-    availableJobsData: [100, 120, 200, 150, 80, 90, 110, 70, 180],
+    availableJobsData: [160, 200, 300, 240, 120, 140, 100, 70, 180],
     appliedJobsData: [80, 100, 150, 120, 60, 70, 90, 50, 130]
+    // availableJobsData: [100, 120, 200, 150, 80, 90, 110, 70, 180],
+    // appliedJobsData: [80, 100, 150, 120, 60, 70, 90, 50, 130]
   }
 
 
