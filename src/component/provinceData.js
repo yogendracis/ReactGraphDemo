@@ -14,6 +14,6 @@ const provinceData = {
     appliedJobs: [80, 100, 150, 120, 60, 70, 90, 50, 130]
 };
 
-export const test = "Testing second branch created in the github.com"
+//export const test = "Testing second branch created in the github.com"
 
 export default provinceData;
