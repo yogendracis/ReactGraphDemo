@@ -67,6 +67,7 @@ const ProvinceGraph = () =>
     <div>
       <h2>opportunity in South Africa Provinces</h2>
       <p>This is demo graph created only for testing.</p>
+      <p>first branch creation testing in the github.com.</p>
       <Bar data={data} />
     </div>
   );
